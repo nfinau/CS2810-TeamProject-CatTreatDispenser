@@ -86,6 +86,13 @@ The prototype successfully demonstrates:
 - Operating an SG90 servo motor.
 - Integrating hardware and software into a functional embedded system.
 
+## Video Demonstration
+
+A demonstration of the completed Smart Cat Treat Dispenser can be viewed here:
+
+**Video:** [https://www.youtube.com/shorts/kUDjfI-_h6Y]
+**Video:** [https://drive.google.com/file/d/1GSXxSjNt5MlEoMvuj3b5m_MaRBtUngL7/view?usp=sharing]
+
 ---
 
 ## License
