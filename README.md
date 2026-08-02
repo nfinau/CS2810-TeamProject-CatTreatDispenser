@@ -4,7 +4,7 @@
 
 **Team Members:**
 - Naomi Finau
-- Anh [Last Name]
+- Anh Nguyen
 
 ---
 
